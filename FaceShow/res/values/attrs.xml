@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="faceShow">
+        <attr name="faceSize" format="reference|dimension"/>
+        <attr name="faceStatus" format="reference|boolean"/>
+    </declare-styleable>
+</resources>
