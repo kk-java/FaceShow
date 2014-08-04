@@ -1,4 +1,4 @@
-## FaceShow
+## FaceShow -- show face in EditText and TextView
 ===================
 
 ## The effect(gif)
