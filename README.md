@@ -1,8 +1,8 @@
 ## FaceShow
 ===================
 
-## The effect(mp4)
-![Video](https://github.com/kk-java/FaceShow/raw/master/screenshot.mp4)
+## The effect(gif)
+![Video](https://github.com/kk-java/FaceShow/raw/master/art/screenshot.gif)
 
 
 ## Other
